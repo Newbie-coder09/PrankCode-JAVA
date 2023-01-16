@@ -129,6 +129,7 @@ Issues:
 * I did not find any issue till now ̶and I'll add more functions to it in future.
 
 --> You can download the .jar file from release section and import it in Eclipse or IntelliJ IDE.
+
 --> .exe is also available in release section (May require JRE to run).
 
 Thank You for reading till end, please consider checking my other repos too.
