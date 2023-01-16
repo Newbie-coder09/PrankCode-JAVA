@@ -32,7 +32,7 @@ Check the code (v0.1):
     import com.sun.management.OperatingSystemMXBean;
 
     //Creating Class
-    public class NotepadHack {
+    public class PrankCode {
     public static void main(String[] args) throws UnknownHostException, AWTException, InterruptedException, URISyntaxException {
     	
     	//Variables to get system details and to type
