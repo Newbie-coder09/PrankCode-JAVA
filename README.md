@@ -1,5 +1,4 @@
 # PrankCode-JAVA
-Use this code to prank someone.
 
 This code is solely witten in JAVA by AYUSH and its free to use as long as you don't consider the code as your's.
 
